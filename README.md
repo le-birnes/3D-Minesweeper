@@ -1,9 +1,11 @@
-# Minesweeper — Three Planes
+# 3D-Minesweeper
+
+*Minesweeper — Three Planes*
 
 First-person Minesweeper. You don't look down at the grid: you're **inside** it, in a
 three-layer sand cave, holding a staff.
 
-**▶ Play: https://le-birnes.github.io/campo-minado/**
+**▶ Play: https://le-birnes.github.io/3D-Minesweeper/**
 
 ![Minesweeper — Three Planes](screenshot.png)
 

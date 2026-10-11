@@ -33,7 +33,7 @@ print()
 # the one above are the same bot playing the same game. It used to be a stale
 # hand-copy that nobody rebuilt.
 print('  the published copy, now rebuilt from this same build:')
-print('  https://le-birnes.github.io/campo-minado/bot-demo.html' + q)
+print('  https://le-birnes.github.io/3D-Minesweeper/bot-demo.html' + q)
 print()
 print('  right panel: step, state, what it is doing, stats, errors')
 print('  bottom right: pace slider, pause, single step')

@@ -1,6 +1,6 @@
 # Plan — pick up here on `/resume`
 
-Live: https://le-birnes.github.io/campo-minado/
+Live: https://le-birnes.github.io/3D-Minesweeper/
 All six open questions were answered on 2026-07-31 and the work is done and live.
 
     python tools/watch.py --zones 4     # build + print a URL you can watch
